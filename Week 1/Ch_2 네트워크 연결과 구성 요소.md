@@ -17,7 +17,7 @@
 
 따라서 **관리 범위 기준**으로 LAN, MAN, WAN을 구분한다.
 
-![Untitled](Ch_2%20%E1%84%82%E1%85%A6%E1%84%90%E1%85%B3%E1%84%8B%208948c/Untitled.png)
+![Untitled 1](https://user-images.githubusercontent.com/84123877/161507091-f6b9643b-826f-4634-9bb0-c3eb085278b7.png)
 
 > LAN, MAN, WAN의 구분
 > 
@@ -53,7 +53,7 @@
 
 가입자와 통신사업자 간에는 전용 케이블로 연결되어 있고 통신사업자 내부에서 TDM(시분할 다중화: Time Division Multiplexing) 같은 기술로 마치 직접 연결한 것처럼 통신 품질을 보장해준다.
 
-![Untitled](Ch_2%20%E1%84%82%E1%85%A6%E1%84%90%E1%85%B3%E1%84%8B%208948c/Untitled%201.png)
+![Untitled 2](https://user-images.githubusercontent.com/84123877/161507098-0a4a6c0d-d104-4b6a-bc4c-f16e894e9145.png)
 
 > 가입자-회선 사업자, 가입자-가입자 연결을 위해 전용 회선을 사용한다.
 > 
