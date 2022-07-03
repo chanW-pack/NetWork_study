@@ -16,4 +16,12 @@ chan woo pack .2022
 
 ## Week 2
 
-- [Ch_7. 통신을 돕는 네트워크 주요 기술](https://github.com/chanW-pack/NetWork_study/blob/main/Week%202/Ch_7%20%ED%86%B5%EC%8B%A0%EC%9D%84%20%EB%8F%95%EB%8A%94%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%A3%BC%EC%9A%94%20%EA%B8%B0%EC%88%A0.md) 
+- [Ch 7. 통신을 돕는 네트워크 주요 기술](https://github.com/chanW-pack/NetWork_study/blob/main/Week%202/Ch_7%20%ED%86%B5%EC%8B%A0%EC%9D%84%20%EB%8F%95%EB%8A%94%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%A3%BC%EC%9A%94%20%EA%B8%B0%EC%88%A0.md) 
+- [Ch 8. 라우팅 프로토콜](https://github.com/chanW-pack/NetWork_study/blob/main/Week%202/Ch_8%20%EB%9D%BC%EC%9A%B0%ED%8C%85%20%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C.md) 
+- [Ch 9. Back to Back 라우터 구성 및 라우터 루핑](https://github.com/chanW-pack/NetWork_study/blob/main/Week%202/Ch_9%20Back%20to%20Back%20%EB%9D%BC%EC%9A%B0%ED%84%B0%20%EA%B5%AC%EC%84%B1%20%EB%B0%8F%20%EB%9D%BC%EC%9A%B0%ED%84%B0%20%EB%A3%A8%ED%95%91.md) 
+- [Ch 9.a 관련 명령어들](https://github.com/chanW-pack/NetWork_study/blob/main/Week%202/Ch_9_a%20%EA%B4%80%EB%A0%A8%20%EB%AA%85%EB%A0%B9%EC%96%B4%EB%93%A4.md) 
+- [OSPF 라우팅 프로토콜](https://github.com/chanW-pack/NetWork_study/blob/main/Week%202/OSPF%20%EB%9D%BC%EC%9A%B0%ED%8C%85%20%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C.md) 
+- [OSPF DR, BDR 개념 및 선출법](https://github.com/chanW-pack/NetWork_study/blob/main/Week%202/OSPF%20DR%2C%20BDR%20%EA%B0%9C%EB%85%90%20%EB%B0%8F%20%EC%84%A0%EC%B6%9C%EB%B2%95.md) 
+- [OSPF 링크 변화 업데이트 방법](https://github.com/chanW-pack/NetWork_study/blob/main/Week%202/OSPF%20%EB%A7%81%ED%81%AC%20%EB%B3%80%ED%99%94%20%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%20%EB%B0%A9%EB%B2%95.md)
+- [용어 부연 설명](https://github.com/chanW-pack/NetWork_study/blob/main/Week%202/%EC%9A%A9%EC%96%B4%20%EB%B6%80%EC%97%B0%20%EC%84%A4%EB%AA%85.md)
+
