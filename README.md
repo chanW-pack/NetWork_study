@@ -13,3 +13,7 @@ chan woo pack .2022
 - [Ch 5. 라우터/L3스위치: 3계층](https://github.com/chanwoo9730/NetWork_study/blob/main/Week%201/Ch_5%20%EB%9D%BC%EC%9A%B0%ED%84%B0_L3%20%EC%8A%A4%EC%9C%84%EC%B9%98_3%EA%B3%84%EC%B8%B5%20%EC%9E%A5%EB%B9%84.md) 
 - [Ch 6. 로드 밸런서 방화벽 4계층 장비(세션 장비)](https://github.com/chanW-pack/NetWork_study/blob/main/Week%201/Ch_6%20%EB%A1%9C%EB%93%9C%20%EB%B0%B8%EB%9F%B0%EC%84%9C%20%EB%B0%A9%ED%99%94%EB%B2%BD%204%EA%B3%84%EC%B8%B5%20%EC%9E%A5%EB%B9%84(%EC%84%B8%EC%85%98%20%EC%9E%A5%EB%B9%84).md) 
 - [Ex . 서브넷 마스크 문제풀이](https://github.com/chanW-pack/NetWork_study/blob/main/Week%201/%EC%84%9C%EB%B8%8C%EB%84%B7%20%EB%A7%88%EC%8A%A4%ED%81%AC%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4.md) 
+
+## Week 2
+
+- [Ch_7. 통신을 돕는 네트워크 주요 기술](https://github.com/chanW-pack/NetWork_study/blob/main/Week%202/Ch_7%20%ED%86%B5%EC%8B%A0%EC%9D%84%20%EB%8F%95%EB%8A%94%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%A3%BC%EC%9A%94%20%EA%B8%B0%EC%88%A0.md) 
