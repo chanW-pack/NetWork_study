@@ -1,4 +1,4 @@
-## OSPF 라우팅 프로토콜
+# OSPF 라우팅 프로토콜
 
 - OSFP (Open Shortest First)
 - 컨버전스타임(Convergence time)이란 라우터 간에 서로 변경된 정보를 주고받는데 걸리는 시간
