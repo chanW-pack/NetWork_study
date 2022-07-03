@@ -6,7 +6,7 @@
     
     라우티드 프로토콜 : TCP/IP, IPX, Apple Talk
     
-    ![Untitled](%E1%84%85%E1%85%A1%E1%84%8B%E1%85%AE%E1%84%90%E1%85%B5%E1%86%BC%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%90%E1%85%A9%E1%84%8F%E1%85%A9%E1%86%AF%207ee51736ab24413293d9376f8dbfbf25/Untitled.png)
+ ![Untitled](https://user-images.githubusercontent.com/84123877/177038956-ac29fd2e-0f7e-45dc-bab8-d7fd04b11c45.png)
     
 
 **동적 라우팅 프로토콜(Dynamic Routing Protocol)**은 운영자가 일일이 경로를 지정하지 않아도 라우터가 스스로 길을 찾아가는 프로토콜이다.
@@ -66,7 +66,8 @@
 
 - **Distance Vector** 알고리즘 : 각각의 라우터는 일정한 주기로 인접한 라우터에 라우팅 정보를 전달하며 라우팅 정보의 변화가 없을 때에도 라우터는 업데이트된 정보를 전달한다.
 
-![Untitled](%E1%84%85%E1%85%A1%E1%84%8B%E1%85%AE%E1%84%90%E1%85%B5%E1%86%BC%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%90%E1%85%A9%E1%84%8F%E1%85%A9%E1%86%AF%207ee51736ab24413293d9376f8dbfbf25/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/84123877/177038958-9d32517a-8d12-4b3d-bcbe-f6c0bbbf9342.png)
+
 
 > Distance Vector 알고리즘의 예
 > 
@@ -80,7 +81,7 @@
 - 실습
     
     
-    ![Untitled](%E1%84%85%E1%85%A1%E1%84%8B%E1%85%AE%E1%84%90%E1%85%B5%E1%86%BC%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%90%E1%85%A9%E1%84%8F%E1%85%A9%E1%86%AF%207ee51736ab24413293d9376f8dbfbf25/Untitled%202.png)
+ ![Untitled 2](https://user-images.githubusercontent.com/84123877/177038959-4f22b876-e99d-4641-9918-b5139dc4831a.png)
     
     위 사진과 같은 네트워크 구성에서 실습하도록 하겠다.
     
