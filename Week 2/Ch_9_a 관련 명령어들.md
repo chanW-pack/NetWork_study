@@ -165,6 +165,3 @@ Router_DCE# conf tRouter_DCE(config)# int s 0Router_DCE(config-if)# clock rate 5
 
 - clock rate 가 설정되지 않으면, 라우터간 통신이 안된다.
 
-출처:
-
-[https://jvinci.tistory.com/22](https://jvinci.tistory.com/22)
