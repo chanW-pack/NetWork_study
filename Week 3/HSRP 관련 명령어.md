@@ -2,8 +2,8 @@
 
 ### 관련 명령어
 
-![Untitled](HSRP%20%E1%84%80%E1%85%AA%E1%86%AB%E1%84%85%E1%85%A7%E1%86%AB%20%E1%84%86%E1%85%A7%E1%86%BC%E1%84%85%E1%85%A7%E1%86%BC%E1%84%8B%E1%85%A5%20f7f2eed23931470aac05649e685fcc63/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/84123877/177280328-9cc04936-fb35-4a23-b60f-c68571acdf2f.png)
 
-![Untitled](HSRP%20%E1%84%80%E1%85%AA%E1%86%AB%E1%84%85%E1%85%A7%E1%86%AB%20%E1%84%86%E1%85%A7%E1%86%BC%E1%84%85%E1%85%A7%E1%86%BC%E1%84%8B%E1%85%A5%20f7f2eed23931470aac05649e685fcc63/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/84123877/177280321-6f9bfdde-5702-4532-81f2-09c49f86cde0.png)
 
-![Untitled](HSRP%20%E1%84%80%E1%85%AA%E1%86%AB%E1%84%85%E1%85%A7%E1%86%AB%20%E1%84%86%E1%85%A7%E1%86%BC%E1%84%85%E1%85%A7%E1%86%BC%E1%84%8B%E1%85%A5%20f7f2eed23931470aac05649e685fcc63/Untitled%202.png)
+![Untitled 2](https://user-images.githubusercontent.com/84123877/177280326-2ed70c63-bd65-4ec3-a514-4d4fd0129d22.png)
