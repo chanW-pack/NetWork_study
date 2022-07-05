@@ -112,7 +112,7 @@
     
     ### 실습
     
-    [네트워크 적용](https://www.notion.so/b96ec46714ec446ba2ef134dcb4155e9)
+    [네트워크 적용](https://github.com/chanW-pack/NetWork_study/blob/main/Week%203/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%A0%81%EC%9A%A9.md)
     
     ---
     
@@ -130,7 +130,7 @@
     
     ### 실습
     
-    [텔넷 포트에서의 액세스 리스트](https://www.notion.so/71908c8702d248758a8b9752ec40fb61)
+    [텔넷 포트에서의 액세스 리스트](https://github.com/chanW-pack/NetWork_study/blob/main/Week%203/%ED%85%94%EB%84%B7%20%ED%8F%AC%ED%8A%B8%EC%97%90%EC%84%9C%EC%9D%98%20%EC%95%A1%EC%84%B8%EC%8A%A4%20%EB%A6%AC%EC%8A%A4%ED%8A%B8.md)
     
     ---
     
@@ -151,7 +151,7 @@
     
     **트래킹 Tracking :** Active 라우터가 다운된건 아니지만, 시리얼 회선에 문제가 생겨 통신이 불가능해진 경우, Active 라우터를 교체하는 기법
     
-    [HSRP 관련 명령어](https://www.notion.so/HSRP-e0b384f1c1bd4244a319b8d6c3c82b2f)
+    [HSRP 관련 명령어](https://github.com/chanW-pack/NetWork_study/blob/main/Week%203/HSRP%20%EA%B4%80%EB%A0%A8%20%EB%AA%85%EB%A0%B9%EC%96%B4.md)
     
     ---
     
@@ -199,4 +199,4 @@
     
     ### 
     
-    [관련 명령어](https://www.notion.so/6ef814dadeb94fd6a715e50a1960f8ae)
+    [관련 명령어](https://github.com/chanW-pack/NetWork_study/blob/main/Week%203/%EA%B4%80%EB%A0%A8%20%EB%AA%85%EB%A0%B9%EC%96%B4.md)
