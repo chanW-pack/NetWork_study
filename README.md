@@ -25,3 +25,10 @@ chan woo pack .2022
 - [OSPF 링크 변화 업데이트 방법](https://github.com/chanW-pack/NetWork_study/blob/main/Week%202/OSPF%20%EB%A7%81%ED%81%AC%20%EB%B3%80%ED%99%94%20%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%20%EB%B0%A9%EB%B2%95.md)
 - [용어 부연 설명](https://github.com/chanW-pack/NetWork_study/blob/main/Week%202/%EC%9A%A9%EC%96%B4%20%EB%B6%80%EC%97%B0%20%EC%84%A4%EB%AA%85.md)
 
+## Week 3
+
+- [엑세스 리스트, NAT](https://github.com/chanW-pack/NetWork_study/blob/main/Week%203/%EC%97%91%EC%84%B8%EC%8A%A4%20%EB%A6%AC%EC%8A%A4%ED%8A%B8,%20NAT.md) 
+
+
+
+
