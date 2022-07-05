@@ -10,7 +10,7 @@
 
 ### 종류 (3가지 방식)
 
-![Untitled](WAN,%20PPP,%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%B7%20%E1%84%85%E1%85%B5%E1%86%AF%E1%84%85%E1%85%A6%E1%84%8B%E1%85%B5,%20ISDN%2089913aba7e9c44169c41652d32ccb765/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/84123877/177287027-99c351a3-b285-42e3-a1c1-79f889995462.png)
 
 1. **Leased Line, 전용선 방식**
     - 통신 사업자(예, 전화국)에게 통신회선을 임대 받아 사용
@@ -126,7 +126,7 @@ PPP는 1대1 로 접속하는 방식.
 
 ### PPP의 보안 인증 (PAP, CHAP)
 
-![Untitled](WAN,%20PPP,%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%B7%20%E1%84%85%E1%85%B5%E1%86%AF%E1%84%85%E1%85%A6%E1%84%8B%E1%85%B5,%20ISDN%2089913aba7e9c44169c41652d32ccb765/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/84123877/177287016-ddc348fb-5b08-4139-bc14-43caf0d43df6.png)
 
 PAP (PPP Authentication Protocol 또는 Password ... ) :
 
@@ -146,7 +146,7 @@ PAP (PPP Authentication Protocol 또는 Password ... ) :
 
 ### CHAP (Challenge Handshake Authentication Protocol)
 
-![Untitled](WAN,%20PPP,%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%B7%20%E1%84%85%E1%85%B5%E1%86%AF%E1%84%85%E1%85%A6%E1%84%8B%E1%85%B5,%20ISDN%2089913aba7e9c44169c41652d32ccb765/Untitled%202.png)
+![Untitled 2](https://user-images.githubusercontent.com/84123877/177287023-e7014229-8dea-4d7f-bb73-c6b75aae8116.png)
 
 CHAP은 보안이 강화된 만큼 인증과정도 늘었다.
 
@@ -178,7 +178,7 @@ X.25에 비해 빠르고 효과적이지만 에러 제어 기법은 거의 제�
 
 Ethernet에서는 IP와 MAC Address를 쓰는 반면, Frame-relay는 DLCI와 Next Hop IP 라는 것을 사용한다.
 
-![Untitled](WAN,%20PPP,%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%B7%20%E1%84%85%E1%85%B5%E1%86%AF%E1%84%85%E1%85%A6%E1%84%8B%E1%85%B5,%20ISDN%2089913aba7e9c44169c41652d32ccb765/Untitled%203.png)
+![Untitled 3](https://user-images.githubusercontent.com/84123877/177287025-86aaa212-ca13-4436-81bd-792a54970f5c.png)
 
 <aside>
 💡 인캡슐레이션 방식에는 Cisco 방식, IEFT 방식(타사 라우터와 혼용시 사용) 두 가지가 있다.
