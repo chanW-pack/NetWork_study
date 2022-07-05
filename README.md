@@ -27,8 +27,9 @@ chan woo pack .2022
 
 ## Week 3
 
-- [엑세스 리스트, NAT](https://github.com/chanW-pack/NetWork_study/blob/main/Week%203/%EC%97%91%EC%84%B8%EC%8A%A4%20%EB%A6%AC%EC%8A%A4%ED%8A%B8,%20NAT.md) 
-
+- [엑세스 리스트, NAT](https://github.com/chanW-pack/NetWork_study/blob/main/Week%203/3_1%20%EC%97%91%EC%84%B8%EC%8A%A4%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%2C%20NAT.md) 
+- [WAN, PPP, 프레임 릴레이, ISDN](https://github.com/chanW-pack/NetWork_study/blob/main/Week%203/3_2%20WAN%2C%20PPP%2C%20%ED%94%84%EB%A0%88%EC%9E%84%20%EB%A6%B4%EB%A0%88%EC%9D%B4%2C%20ISDN.md)
+- [IPv6](https://github.com/chanW-pack/NetWork_study/blob/main/Week%203/3_3%20IPv6.md)
 
 
 
