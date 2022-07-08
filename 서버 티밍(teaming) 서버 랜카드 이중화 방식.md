@@ -23,7 +23,7 @@
 
 </aside>
 
-![Untitled](%E1%84%89%E1%85%A5%E1%84%87%E1%85%A5%20%E1%84%90%E1%85%B5%E1%84%86%E1%85%B5%E1%86%BC(teaming)%20&%20%E1%84%87%E1%85%A9%E1%86%AB%E1%84%83%E1%85%B5%E1%86%BC%20(bonding)%20-%20%E1%84%89%E1%85%A5%E1%84%87%E1%85%A5%20%E1%84%85%E1%85%A2%E1%86%AB%E1%84%8F%20be7d099f33d04d8aae8cb6ade1c34586/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/84123877/177929514-45243234-e8c0-47d0-a126-95a396dd7484.png)
 
 > 위 사진처럼 LAN 카드 2개를 장착 후 두 케이블을 연결한다.
 > 
@@ -46,24 +46,24 @@
 
 1. 서버관리자 → 로컬 서버 → NIC 팀 사용 안 함
 
-![Untitled](%E1%84%89%E1%85%A5%E1%84%87%E1%85%A5%20%E1%84%90%E1%85%B5%E1%84%86%E1%85%B5%E1%86%BC(teaming)%20&%20%E1%84%87%E1%85%A9%E1%86%AB%E1%84%83%E1%85%B5%E1%86%BC%20(bonding)%20-%20%E1%84%89%E1%85%A5%E1%84%87%E1%85%A5%20%E1%84%85%E1%85%A2%E1%86%AB%E1%84%8F%20be7d099f33d04d8aae8cb6ade1c34586/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/84123877/177929501-4eccdcd4-ff33-49d1-ba43-d200b578e2be.png)
 
 1. 인터페이스에서 NIC 팀에 추가할 네트워크 어댑터를 선택하고 클릭 작업을 한 다음에 새 팀 추가를 선택한다.
 
-![Untitled](%E1%84%89%E1%85%A5%E1%84%87%E1%85%A5%20%E1%84%90%E1%85%B5%E1%84%86%E1%85%B5%E1%86%BC(teaming)%20&%20%E1%84%87%E1%85%A9%E1%86%AB%E1%84%83%E1%85%B5%E1%86%BC%20(bonding)%20-%20%E1%84%89%E1%85%A5%E1%84%87%E1%85%A5%20%E1%84%85%E1%85%A2%E1%86%AB%E1%84%8F%20be7d099f33d04d8aae8cb6ade1c34586/Untitled%202.png)
+![Untitled 2](https://user-images.githubusercontent.com/84123877/177929507-fb6b3941-d6bc-4a2c-997b-e9cd47542d78.png)
 
 1. 대화 상자가 열리고 네트워크 어댑터와 팀 멤버가 표시된다. 팀 이름에 NIC 팀의 이름을 입력하고, 필요한 경우 추가 속성팀 구성 모드, 부하 분산 모드 및 대기 어댑터에 대한 값을 선택한다.
 
-![Untitled](%E1%84%89%E1%85%A5%E1%84%87%E1%85%A5%20%E1%84%90%E1%85%B5%E1%84%86%E1%85%B5%E1%86%BC(teaming)%20&%20%E1%84%87%E1%85%A9%E1%86%AB%E1%84%83%E1%85%B5%E1%86%BC%20(bonding)%20-%20%E1%84%89%E1%85%A5%E1%84%87%E1%85%A5%20%E1%84%85%E1%85%A2%E1%86%AB%E1%84%8F%20be7d099f33d04d8aae8cb6ade1c34586/Untitled%203.png)
+![Untitled 3](https://user-images.githubusercontent.com/84123877/177929509-01946c94-3675-4b90-986b-54bf7c79a529.png)
 
 > 대부분의 경우 가장 성능이 뛰어난 로드 균형 모드는 동적이다.
 > 
 
 1. 확인을 선택하면 이더넷의 상태가 활성으로 변한다. 네트워크 속성에서 Team에서 아이피 주소 및 서브넷 마스크, 게이트웨이 등을 설정해 주면 된다.
 
-![Untitled](%E1%84%89%E1%85%A5%E1%84%87%E1%85%A5%20%E1%84%90%E1%85%B5%E1%84%86%E1%85%B5%E1%86%BC(teaming)%20&%20%E1%84%87%E1%85%A9%E1%86%AB%E1%84%83%E1%85%B5%E1%86%BC%20(bonding)%20-%20%E1%84%89%E1%85%A5%E1%84%87%E1%85%A5%20%E1%84%85%E1%85%A2%E1%86%AB%E1%84%8F%20be7d099f33d04d8aae8cb6ade1c34586/Untitled%204.png)
+![Untitled 4](https://user-images.githubusercontent.com/84123877/177929510-34c5a316-8189-4d93-8170-9d82ef32999d.png)
 
-![Untitled](%E1%84%89%E1%85%A5%E1%84%87%E1%85%A5%20%E1%84%90%E1%85%B5%E1%84%86%E1%85%B5%E1%86%BC(teaming)%20&%20%E1%84%87%E1%85%A9%E1%86%AB%E1%84%83%E1%85%B5%E1%86%BC%20(bonding)%20-%20%E1%84%89%E1%85%A5%E1%84%87%E1%85%A5%20%E1%84%85%E1%85%A2%E1%86%AB%E1%84%8F%20be7d099f33d04d8aae8cb6ade1c34586/Untitled%205.png)
+![Untitled 5](https://user-images.githubusercontent.com/84123877/177929513-1476dcd2-89d0-4568-9c35-1e5d75918964.png)
 
 > 마지막으로 세팅이 완료되면 해당 사진처럼 2개의 네트워크가 teaming이라는 하나의 연결로 나타나게 된다.
 > 
