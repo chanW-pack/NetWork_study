@@ -31,5 +31,8 @@ chan woo pack .2022
 - [WAN, PPP, 프레임 릴레이, ISDN](https://github.com/chanW-pack/NetWork_study/blob/main/Week%203/3_2%20WAN%2C%20PPP%2C%20%ED%94%84%EB%A0%88%EC%9E%84%20%EB%A6%B4%EB%A0%88%EC%9D%B4%2C%20ISDN.md)
 - [IPv6](https://github.com/chanW-pack/NetWork_study/blob/main/Week%203/3_3%20IPv6.md)
 
+## ETC.
 
+- [서버 랜카드 이중화 방식(teadming,bonding](https://github.com/chanW-pack/NetWork_study/blob/main/%EC%84%9C%EB%B2%84%20%ED%8B%B0%EB%B0%8D(teaming)%20%EC%84%9C%EB%B2%84%20%EB%9E%9C%EC%B9%B4%EB%93%9C%20%EC%9D%B4%EC%A4%91%ED%99%94%20%EB%B0%A9%EC%8B%9D.md)
 
+---
