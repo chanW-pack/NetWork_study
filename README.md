@@ -33,6 +33,6 @@ chan woo pack .2022
 
 ## ETC.
 
-- [서버 랜카드 이중화 방식(teadming,bonding](https://github.com/chanW-pack/NetWork_study/blob/main/%EC%84%9C%EB%B2%84%20%ED%8B%B0%EB%B0%8D(teaming)%20%EC%84%9C%EB%B2%84%20%EB%9E%9C%EC%B9%B4%EB%93%9C%20%EC%9D%B4%EC%A4%91%ED%99%94%20%EB%B0%A9%EC%8B%9D.md)
+- [서버 랜카드 이중화 방식 (teadming,bonding)](https://github.com/chanW-pack/NetWork_study/blob/main/%EC%84%9C%EB%B2%84%20%ED%8B%B0%EB%B0%8D(teaming)%20%EC%84%9C%EB%B2%84%20%EB%9E%9C%EC%B9%B4%EB%93%9C%20%EC%9D%B4%EC%A4%91%ED%99%94%20%EB%B0%A9%EC%8B%9D.md)
 
 ---
