@@ -1,3 +1,12 @@
+### SLB 설정 순서
+
+1. VLAN 생성과 Real IP 설정
+2. Real server group 설정 후, real server ip 추가
+3. 가상 IP 주소(VIP, 실제 외부에 알려지는 IP)아 서비스 타입 지정
+4. 서버와 클라이언트 포트 Enable
+5. SLB 활성화
+6. 적용/저장
+
 ## SLB 설정
 
 ---
