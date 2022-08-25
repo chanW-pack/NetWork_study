@@ -1,4 +1,4 @@
-# Alteon L4 기본 설정/로드밸런싱
+# Alteon L4 기본 설정
 
 ---
 
@@ -7,15 +7,6 @@
 1. L4 IP 설정
 2. 게이트웨이 설정
 3. admpwd 설정 및 telnet 접속 활성화
-
-### SLB 설정 순서
-
-1. VLAN 생성과 Real IP 설정
-2. Real server group 설정 후, real server ip 추가
-3. 가상 IP 주소(VIP, 실제 외부에 알려지는 IP)아 서비스 타입 지정
-4. 서버와 클라이언트 포트 Enable
-5. SLB 활성화
-6. 적용/저장
 
 ---
 
