@@ -33,7 +33,7 @@ week 1~3) [IT 엔지니어를 위한 네트워크 입문] 도서를 참조해 �
 
 ## ETC.
 
-- [서버 랜카드 이중화 방식 (teadming, bonding)](https://github.com/chanW-pack/NetWork_study/blob/main/%EC%84%9C%EB%B2%84%20%ED%8B%B0%EB%B0%8D(teaming)%20%EC%84%9C%EB%B2%84%20%EB%9E%9C%EC%B9%B4%EB%93%9C%20%EC%9D%B4%EC%A4%91%ED%99%94%20%EB%B0%A9%EC%8B%9D.md)
+- [서버 랜카드 이중화 방식 (teaming, bonding)](https://github.com/chanW-pack/NetWork_study/blob/main/%EC%84%9C%EB%B2%84%20%ED%8B%B0%EB%B0%8D(teaming)%20%EC%84%9C%EB%B2%84%20%EB%9E%9C%EC%B9%B4%EB%93%9C%20%EC%9D%B4%EC%A4%91%ED%99%94%20%EB%B0%A9%EC%8B%9D.md)
 
 ## L4 (Alteon)
 - [Alteon_L4_기본 설정](https://github.com/chanW-pack/NetWork_study/blob/main/Alteon_L4_%EA%B8%B0%EB%B3%B8%20%EC%84%A4%EC%A0%95.md)
