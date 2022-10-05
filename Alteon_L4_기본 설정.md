@@ -93,4 +93,17 @@ vlan 1$ add 2
 # ip를 설정하고 뒤에 해당 vlan을 지정한다.
 ```
 
+### apply, save 저장 관련 명령어
+
+1. apply 전
+diff          - 현재까지 입력된 설정 확인
+revert      - 현재까지 입력된 설정 모두 취소
+
+2. apply 후
+diff flash   - apply 되었으나 save 되지 않은 설정을 확인
+revert apply  - apply 된 설정을 모두 취소
+
+3. save 후
+되돌릴 수 없음 다시 설정해야 합니다.
+
 ---
