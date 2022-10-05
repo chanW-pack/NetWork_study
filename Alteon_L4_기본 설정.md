@@ -104,6 +104,6 @@ diff flash    - apply 되었으나 save 되지 않은 설정을 확인
 revert apply  - apply 된 설정을 모두 취소
 
 3. save 후
-되돌릴 수 없음 다시 설정해야 합니다.
+되돌릴 수 없음. 다시 설정해야 한다.
 ```
 ---
