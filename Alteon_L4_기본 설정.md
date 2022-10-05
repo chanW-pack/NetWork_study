@@ -94,7 +94,7 @@ vlan 1$ add 2
 ```
 
 ### apply, save 저장 관련 명령어
-
+```bash
 1. apply 전
 diff          - 현재까지 입력된 설정 확인
 revert      - 현재까지 입력된 설정 모두 취소
@@ -105,5 +105,5 @@ revert apply  - apply 된 설정을 모두 취소
 
 3. save 후
 되돌릴 수 없음 다시 설정해야 합니다.
-
+```
 ---
